@@ -38,8 +38,8 @@ Este projeto tem como objetivo realizar uma análise exploratória dos dados e a
 ### 8. Avaliação e Visualização dos Resultados
 - Avaliei os modelos com base na métrica ROC AUC.
 - Plotei gráficos para visualização dos resultados, como:
-  - Curvas ROC
-  - Importância das variáveis
+   ![Curva Roc MLP](https://github.com/guievbs/bank-churn-prediction/blob/main/report/images/roc_auc_mlp.png)
+   ![Curva Roc RF](https://github.com/guievbs/bank-churn-prediction/blob/main/report/images/roc_auc_rf.png)
 
 ## Conclusão
 - Os resultados não foram satisfatórios, provavelmente devido ao overfitting dos dados de treino.
